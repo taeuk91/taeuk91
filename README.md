@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I was a Korean tutor
 
   <div align=center>
-	[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taeuk91)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taeuk91)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   
   <div align=center>
